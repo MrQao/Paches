@@ -1,4 +1,4 @@
-# Patches: AI-Driven Virtual Companion
+# Patches: AI-Driven Virtual Companion(I lost my data, I will push it in few days)
 
 ## 🤖 Overview
 An immersive VR companion project for Meta Quest 3 that explores the synergy between LLMs (GPT) and game logic. The project defines a character with dynamic personality shifts between "Companionship" and "Self-Entertainment" modes.
