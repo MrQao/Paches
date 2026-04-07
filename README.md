@@ -9,6 +9,6 @@ An immersive VR companion project for Meta Quest 3 that explores the synergy bet
 * **Autonomous Navigation & Agency**: Implemented a NavMesh-based autonomous behavior tree, allowing the character to proactively interact with the environment based on its current state.
 * **Prompt-Logic Integration**: Designed a robust logic framework to translate natural language prompts into deterministic semantic mappings for character responses.
 
-## 🧠 Engineering Insights (Ubisoft Focus)
+## 🧠 Engineering Insights 
 * **Decoupling AI & Presentation**: Followed a modular approach to separate the LLM response handling from the character's animation controller, ensuring the game loop remains responsive regardless of API latency.
 * **Agent Personality Design**: Used structured Prompt Engineering to define core character traits, ensuring consistent behavior across diverse user interaction scenarios.
