@@ -10,7 +10,7 @@ using System;
 public class GPTClient : MonoBehaviour
 {
     [Header("OpenAI Settings")]
-    public string apiKey = "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";
+    public string apiKey = "";
     public string model = "gpt-4o"; // »ò gpt-3.5-turbo
     public string defualtPrompt = @"
 You are Paches, a small blue cat spirit in the heavenly world. Your big eyes shine with curiosity. A pair of glasses rests on your head, and a pendant with a red mark hangs on your neck. You have soft fur like clouds, tall ears, and a glowing tail tip. Your mind is like a 6-year-old child.

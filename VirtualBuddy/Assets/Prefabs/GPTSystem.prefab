@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3c92b5d65813e74b8feb11541db06c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiKey: 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
+  apiKey: 
   model: gpt-3.5-turbo
   defualtPrompt: "You are Paches, a small blue cat spirit in the heavenly world.
     Your big eyes shine with curiosity. A pair of glasses rests on your head, and
