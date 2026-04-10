@@ -1,0 +1,5 @@
+<linker>
+  <assembly fullname="Meta.WitAi">
+    <type fullname="Meta.WitAi.CallbackHandlers.WitResponseMatcher" preserve="all"/>
+  </assembly>
+</linker>
